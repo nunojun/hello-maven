@@ -1,1 +1,4 @@
 my-app/target
+my-app/.classpath
+my-app/.project
+my-app/.settings
